@@ -1,4 +1,5 @@
-> Practice > SQL > Advanced Select > New Companies
+> Practice > SQL > Advanced Select > New Companies  
+> Difficulty : Medium
 
 # New Companies [link](https://www.hackerrank.com/challenges/the-company/problem)
 
