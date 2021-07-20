@@ -1,4 +1,5 @@
-> Practice > SQL > Advanced Select > Binary Tree Nodes
+> Practice > SQL > Advanced Select > Binary Tree Nodes  
+> Difficulty : Medium
 # Binary Tree Nodes [link](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)
 
 You are given a table, BST, containing two columns: N and P, where N represents the value of a node in Binary Tree, and P is the parent of N.
